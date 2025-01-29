@@ -3,6 +3,7 @@
 This project involves deploying a Dockerized application across AWS accounts using **Amazon Elastic Container Registry (ECR)**. The project was developed as part of a multiplayer collaboration to securely store and share container images between accounts.
 
 ## Architecture Diagram
+Explore the documentation [here](/Kanika's%20Documentation%20for%20Deploy%20An%20App%20Across%20Accounts.pdf).
 ![Cross-Account Deployment](CrossAccount.png)
 
 ## Steps
