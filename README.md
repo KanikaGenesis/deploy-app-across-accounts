@@ -2,8 +2,7 @@
 
 This project involves deploying a Dockerized application across AWS accounts using **Amazon Elastic Container Registry (ECR)**. The project was developed as part of a multiplayer collaboration to securely store and share container images between accounts.
 
-## Diagram repreentation
-
+## Architecture Diagram
 ![Cross-Account Deployment](CrossAccount.png)
 
 ## Steps
@@ -15,7 +14,7 @@ This project involves deploying a Dockerized application across AWS accounts usi
 - Push the image using the push commands in the repository. 
 - Share the image across accounts by adding permission policies in ECR repository.
 
-## Policy to add:
+## Policy
 
 ```
 {
